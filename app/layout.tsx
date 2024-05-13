@@ -12,8 +12,8 @@ const ibmPlexSerif = IBM_Plex_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "Latitude",
-  description: "Latitude is a modern banking platform for everyone.",
+  title: "Altitude",
+  description: "Altitude is a modern banking platform for everyone.",
   icons: {
     icon: "/icons/logo.svg",
   },
